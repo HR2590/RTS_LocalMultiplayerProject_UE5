@@ -14,6 +14,13 @@ Future Implementations:
 -More fun content.
 -Settings
 -Shortcuts
+-Optimize Gather
 
 Controls:
 -Mouse Only
+
+
+Known Issues:
+-Commands Only works on player 1
+-UI Doesn't Update values automatically
+
